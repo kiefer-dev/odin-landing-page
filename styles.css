@@ -1,0 +1,47 @@
+.header, .footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.info-pane {
+
+}
+
+.quote-pane {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+.signup-pane {
+
+}
+
+.logo-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+* {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+.snail-image {
+    width: 400px;
+    height: auto;
+}
