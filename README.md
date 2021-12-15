@@ -10,3 +10,7 @@ Colors and Font Styles: https://cdn.statically.io/gh/TheOdinProject/curriculum/m
 
 Image Credits
 Snail - Photo by Homero Esparza Guillen from Pexels
+Insect1 - Photo by Egor Kamelev from Pexels
+Insect2 - Photo by Skyler Ewing from Pexels
+Insect3 - Photo by Pavel Hájek from Pexels
+Insect4 - Photo by Daniel Goosen from Pexels
