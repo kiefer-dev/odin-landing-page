@@ -5,7 +5,7 @@ Intended Design: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/fou
 
 Colors and Font Styles: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png
 
-
+Completed page URL: https://kieferweis-95.github.io/odin-landing-page/
 
 
 Image Credits
